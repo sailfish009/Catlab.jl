@@ -39,7 +39,7 @@ end
   include("PredicatedSets.jl")
 end
 
-@testset "PredicatedSets" begin
+@testset "Squares" begin
   include("Squares.jl")
 end
 
